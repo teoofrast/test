@@ -1,2 +1,4 @@
-var el = 3;
-console.log(el);
+
+
+var money = prompt("Ваш доход в месяц?","");
+console.log(money);
