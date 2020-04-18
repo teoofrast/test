@@ -1,4 +1,3 @@
-
-
-var money = prompt("Ваш доход в месяц?","");
-console.log(money);
+if(2*4 == 8) {
+    console.log("Right")
+}
