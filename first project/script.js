@@ -1,4 +1,4 @@
-let money = prompt("Ваш бюджет на месяц?","");
+/*let money = prompt("Ваш бюджет на месяц?","");
 let time = prompt("Введите дату в формате YYYY-MM-DD","");
 
 let appData = {
@@ -26,4 +26,11 @@ alert(appData.budget / 30);
 
 console.log(5+ +"7")
 console.log(typeof("cherry"+5))
-console.log(parseInt("155px",10))
+console.log(parseInt("155px",10)),*/
+
+/*console.log([ ] + false - null + true) //Nan
+let y = 1; let x = y = 2; alert(x); //2
+console.log([ ] + 1 + 2) //Nan*/
+
+//alert( "1"[0] )
+console.log( 0 || "" || 2 || undefined || true || falsе)
